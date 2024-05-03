@@ -7,7 +7,7 @@ This API provides functionalities for managing vendors, purchase orders, and tra
 # Setup Instructions
   ### 1.Clone the Repository:
         Clone this repository to your local machine using the following command
-        https://github.com/akshayakumar1/Vendor-Management-System.git
+        https://github.com/akshayakumar1/vendor-management-system.git
         
   ### 2.Create Virtual Envirmoment & Install Dependencies:
         Navigate to the project directory and install the required dependencies using pip
